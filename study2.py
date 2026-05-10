@@ -20,3 +20,7 @@ object2 = Employee("Bob", 25, 45000)
 object2.show_details()      
 object3 = Employee("Charlie", 35, 60000)
 object3.show_details()
+
+# __str__ is a built-in Python method — works automatically whenever Python needs to print or convert your object to a string:
+
+
